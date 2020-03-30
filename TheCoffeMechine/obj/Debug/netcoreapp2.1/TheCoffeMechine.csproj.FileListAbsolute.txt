@@ -1,0 +1,11 @@
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp2.1\TheCoffeMechine.csprojAssemblyReference.cache
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp2.1\TheCoffeMechine.csproj.CoreCompileInputs.cache
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp2.1\TheCoffeMechine.AssemblyInfoInputs.cache
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp2.1\TheCoffeMechine.AssemblyInfo.cs
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp2.1\TheCoffeMechine.deps.json
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp2.1\TheCoffeMechine.runtimeconfig.json
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp2.1\TheCoffeMechine.runtimeconfig.dev.json
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp2.1\TheCoffeMechine.dll
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp2.1\TheCoffeMechine.pdb
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp2.1\TheCoffeMechine.dll
+E:\AMIKOM PROGRAM\Smt 2\Pemrograman\TheCoffeMechine\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp2.1\TheCoffeMechine.pdb
